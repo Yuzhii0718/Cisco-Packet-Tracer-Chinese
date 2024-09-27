@@ -4013,7 +4013,7 @@ To Remove: Click anywhere in the row to be deleted and press the Delete key</sou
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="172"/>
         <source>Alt+W</source>
-        <translation>Alt+W</translation>
+        <translation>Alt + W</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="203"/>
@@ -4023,7 +4023,7 @@ To Remove: Click anywhere in the row to be deleted and press the Delete key</sou
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="206"/>
         <source>Alt+V</source>
-        <translation>Alt+V</translation>
+        <translation>Alt + V</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="234"/>
@@ -4033,7 +4033,7 @@ To Remove: Click anywhere in the row to be deleted and press the Delete key</sou
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="237"/>
         <source>Alt+I</source>
-        <translation>Alt+I</translation>
+        <translation>Alt + 我</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="265"/>
@@ -4053,7 +4053,7 @@ To Remove: Click anywhere in the row to be deleted and press the Delete key</sou
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="299"/>
         <source>Alt+S</source>
-        <translation>Alt+S</translation>
+        <translation>Alt + S</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="327"/>
@@ -4063,7 +4063,7 @@ To Remove: Click anywhere in the row to be deleted and press the Delete key</sou
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="330"/>
         <source>Alt+N</source>
-        <translation>Alt+N</translation>
+        <translation>Alt + N</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="363"/>
@@ -4073,7 +4073,7 @@ To Remove: Click anywhere in the row to be deleted and press the Delete key</sou
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="366"/>
         <source>Alt+P</source>
-        <translation>Alt+P</translation>
+        <translation>Alt + P</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="399"/>
@@ -4098,7 +4098,7 @@ To Remove: Click anywhere in the row to be deleted and press the Delete key</sou
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="433"/>
         <source>Alt+C</source>
-        <translation>Alt+C</translation>
+        <translation>Alt + C</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/Activity_Wizard.ui" line="421"/>
@@ -4372,7 +4372,7 @@ Contact: miwang@cisco.com</source>
         <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="803"/>
         <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="806"/>
         <source>On Demand</source>
-        <translation>在请求时</translation>
+        <translation>一经请求</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/IPC/BaseCEPListDialog.ui" line="813"/>
@@ -4711,7 +4711,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/IoE/DeviceFileManager.ui" line="47"/>
         <location filename="../gui/DesignerFiles/IoE/DeviceFileManager.ui" line="50"/>
         <source>Path:</source>
-        <translation>路径：</translation>
+        <translation>小路：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/IoE/DeviceFileManager.ui" line="57"/>
@@ -4803,7 +4803,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/IoE/DeviceFileManager_edit.ui" line="82"/>
         <location filename="../gui/DesignerFiles/IoE/DeviceFileManager_edit.ui" line="87"/>
         <source>Path:</source>
-        <translation>路径：</translation>
+        <translation>小路：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/IoE/DeviceFileManager_edit.ui" line="92"/>
@@ -4912,7 +4912,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="304"/>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="528"/>
         <source>Auto</source>
-        <translation>自动</translation>
+        <translation>汽车</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="362"/>
@@ -5203,7 +5203,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1963"/>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1966"/>
         <source>Media Bridge</source>
-        <translation>多媒体桥接</translation>
+        <translation>Media Bridge</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="2044"/>
@@ -5402,7 +5402,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1421"/>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1424"/>
         <source>WPA</source>
-        <translation>WPA</translation>
+        <translation>水协</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1024"/>
@@ -5429,7 +5429,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1196"/>
         <source>Status</source>
-        <translation>状态</translation>
+        <translation>地位</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1216"/>
@@ -8063,14 +8063,14 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="496"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="499"/>
         <source>Translator</source>
-        <translation>chinese1.9.3</translation>
+        <translation>译者</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="509"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="512"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="515"/>
         <source>Cisco</source>
-        <translation type="unfinished">项目地址</translation>
+        <translation>Yuzhii</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="525"/>
@@ -11581,7 +11581,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="9079"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="14881"/>
         <source>WLC Address</source>
-        <translation>WLC 地址</translation>
+        <translation>无线控制器地址</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="8827"/>
@@ -14356,7 +14356,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="821"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="824"/>
         <source>Status:</source>
-        <translation>状态：</translation>
+        <translation>地位：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAccessRestrictions.ui" line="1028"/>
@@ -15213,7 +15213,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="733"/>
         <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="781"/>
         <source>Auto</source>
-        <translation>自动</translation>
+        <translation>汽车</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseAdvWirelessSecurity.ui" line="634"/>
@@ -16044,21 +16044,21 @@ Range: 256-2346)</source>
         <location filename="../gui/DesignerFiles/AnalogPhone/BaseAnalogPhoneGUI.ui" line="411"/>
         <location filename="../gui/DesignerFiles/AnalogPhone/BaseAnalogPhoneGUI.ui" line="417"/>
         <source>Do</source>
-        <translation>Do</translation>
+        <translation>做</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AnalogPhone/BaseAnalogPhoneGUI.ui" line="477"/>
         <location filename="../gui/DesignerFiles/AnalogPhone/BaseAnalogPhoneGUI.ui" line="480"/>
         <location filename="../gui/DesignerFiles/AnalogPhone/BaseAnalogPhoneGUI.ui" line="486"/>
         <source>Re</source>
-        <translation>Re</translation>
+        <translation>回覆</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AnalogPhone/BaseAnalogPhoneGUI.ui" line="546"/>
         <location filename="../gui/DesignerFiles/AnalogPhone/BaseAnalogPhoneGUI.ui" line="549"/>
         <location filename="../gui/DesignerFiles/AnalogPhone/BaseAnalogPhoneGUI.ui" line="555"/>
         <source>Mi</source>
-        <translation>Mi</translation>
+        <translation>米</translation>
     </message>
 </context>
 <context>
@@ -16243,7 +16243,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/MainGUIComponents/BaseCheckAnswerPage.ui" line="236"/>
         <location filename="../gui/DesignerFiles/MainGUIComponents/BaseCheckAnswerPage.ui" line="556"/>
         <source>Status</source>
-        <translation>状态</translation>
+        <translation>地位</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/MainGUIComponents/BaseCheckAnswerPage.ui" line="241"/>
@@ -16459,7 +16459,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/BaseConfigureTabWidget.ui" line="29"/>
         <source>GUI</source>
-        <translation>GUI</translation>
+        <translation>图形用户界面</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/BaseConfigureTabWidget.ui" line="34"/>
@@ -17006,7 +17006,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="263"/>
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="266"/>
         <source>Digital Slots</source>
-        <translation>数字插槽</translation>
+        <translation>数字老虎机</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="201"/>
@@ -17672,12 +17672,12 @@ Configuration</source>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseDhcpClientTable.ui" line="933"/>
         <source>Wireless-N&lt;br/&gt;Broadband Router</source>
-        <translation>Wireless-N&lt;br/&gt;宽带路由器</translation>
+        <translation>无线-N&lt;br/&gt;宽带路由器</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseDhcpClientTable.ui" line="935"/>
         <source>Wireless-NBroadband Router</source>
-        <translation>Wireless-N宽带路由器</translation>
+        <translation>无线宽带路由器</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseDhcpClientTable.ui" line="993"/>
@@ -17798,13 +17798,13 @@ Configuration</source>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseDhcpReservation.ui" line="1044"/>
         <source>Wireless-N&lt;br/&gt;Broadband Router</source>
-        <translation>Wireless-N&lt;br/&gt;宽带路由器</translation>
+        <translation>无线-N&lt;br/&gt;宽带路由器</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseDhcpReservation.ui" line="1035"/>
         <location filename="../gui/DesignerFiles/Routing/BaseDhcpReservation.ui" line="1038"/>
         <source>Wireless-NBroadband Router</source>
-        <translation>Wireless-N宽带路由器</translation>
+        <translation>无线宽带路由器</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseDhcpReservation.ui" line="1104"/>
@@ -18058,7 +18058,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Routing/BaseFirewallSettings.ui" line="806"/>
         <location filename="../gui/DesignerFiles/Routing/BaseFirewallSettings.ui" line="808"/>
         <source>Cookies</source>
-        <translation>Cookies</translation>
+        <translation>饼干</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseFirewallSettings.ui" line="1195"/>
@@ -18196,7 +18196,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Workspace/BaseGridDlg.ui" line="296"/>
         <location filename="../gui/DesignerFiles/Workspace/BaseGridDlg.ui" line="299"/>
         <source>Wiring closets do not have a scale.</source>
-        <translation>接线柜没有刻度。</translation>
+        <translation>接线柜没有秤。</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workspace/BaseGridDlg.ui" line="149"/>
@@ -19761,13 +19761,13 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="1071"/>
         <source>Wireless-N&lt;br/&gt;Broadband Router</source>
-        <translation>Wireless-N&lt;br/&gt;宽带路由器</translation>
+        <translation>无线-N&lt;br/&gt;宽带路由器</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="1062"/>
         <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="1065"/>
         <source>Wireless-NBroadband Router</source>
-        <translation>Wireless-N宽带路由器</translation>
+        <translation>无线宽带路由器</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="1131"/>
@@ -19822,7 +19822,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="2199"/>
         <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="2202"/>
         <source>192.168.1.</source>
-        <translation>192.168.1.</translation>
+        <translation>192.168.1。</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BasePCIPListDlg.ui" line="1973"/>
@@ -20198,7 +20198,7 @@ Destination:</source>
     <message>
         <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="1159"/>
         <source>&lt;&lt; Previous Layer</source>
-        <translation>&lt;&lt; 上一层</translation>
+        <translation>&amp;lt;&amp;lt; 上一层</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/PDUInfo/BasePDUInfo.ui" line="1178"/>
@@ -20705,7 +20705,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Routing/BaseRouterStaticCfg.ui" line="84"/>
         <location filename="../gui/DesignerFiles/Routing/BaseRouterStaticCfg.ui" line="86"/>
         <source>Mask</source>
-        <translation>掩码</translation>
+        <translation>面具</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseRouterStaticCfg.ui" line="65"/>
@@ -20813,7 +20813,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="939"/>
         <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="944"/>
         <source>MTU:</source>
-        <translation>MTU:</translation>
+        <translation>人：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseRouterStatus.ui" line="965"/>
@@ -21314,12 +21314,12 @@ Connection&lt;/b&gt;&lt;/p&gt;</source>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3569"/>
         <source>VoIP: </source>
-        <translation>VoIP: </translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3589"/>
         <source>IpTV: </source>
-        <translation>IpTV: </translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3627"/>
@@ -21345,7 +21345,7 @@ Connection&lt;/b&gt;&lt;/p&gt;</source>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3807"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3826"/>
         <source>VoIP</source>
-        <translation>VoIP</translation>
+        <translation>网络电话</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3680"/>
@@ -21356,7 +21356,7 @@ Connection&lt;/b&gt;&lt;/p&gt;</source>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3812"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3831"/>
         <source>IPTV</source>
-        <translation>IPTV</translation>
+        <translation>网络电视</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3707"/>
@@ -21376,22 +21376,22 @@ Connection&lt;/b&gt;&lt;/p&gt;</source>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3776"/>
         <source>Internet </source>
-        <translation>互联网 </translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3794"/>
         <source>2.4GHz: </source>
-        <translation>2.4GHz: </translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3839"/>
         <source>5GHz - 1: </source>
-        <translation>5GHz - 1: </translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3849"/>
         <source>5GHz -2:  </source>
-        <translation>5GHz -2:  </translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3859"/>
@@ -21438,7 +21438,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1276"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1279"/>
         <source>DNS 1:</source>
-        <translation>DNS 1:</translation>
+        <translation>域名解析 1：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="1419"/>
@@ -21662,7 +21662,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2095"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2098"/>
         <source>MTU:</source>
-        <translation>MTU:</translation>
+        <translation>人：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="2430"/>
@@ -21735,7 +21735,7 @@ of Users:</source>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3230"/>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="3233"/>
         <source>WINS:</source>
-        <translation>WINS:</translation>
+        <translation>获胜：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseSetup.ui" line="4242"/>
@@ -21923,7 +21923,7 @@ Setting&lt;/p&gt;</source>
     <message>
         <location filename="../gui/DesignerFiles/Simulation/BaseSimulationPanel.ui" line="529"/>
         <source>ARP, ICMP, BLAH, BLAH, BLAH, NSAD, ARP, ICMP, BLAH, BLAH, BLAH, NSAD,</source>
-        <translation>ARP, ICMP, BLAH, BLAH, BLAH, NSAD, ARP, ICMP, BLAH, BLAH, BLAH, NSAD,</translation>
+        <translation>ARP，ICMP，废话，废话，废话，NSAD，ARP，ICMP，废话，废话，废话，非甾体抗炎药，</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Simulation/BaseSimulationPanel.ui" line="556"/>
@@ -23253,7 +23253,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="2169"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="2172"/>
         <source>Auto</source>
-        <translation>自动</translation>
+        <translation>汽车</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessNetworkStatus.ui" line="543"/>
@@ -24082,7 +24082,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityHomeRouter.ui" line="501"/>
         <source>Wireless Media Bridge</source>
-        <translation>无线多媒体桥接</translation>
+        <translation>无线媒体桥</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSecurityHomeRouter.ui" line="534"/>
@@ -24143,7 +24143,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="599"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="634"/>
         <source>Auto</source>
-        <translation>自动</translation>
+        <translation>汽车</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettings.ui" line="481"/>
@@ -24307,7 +24307,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettingsHomeRouter.ui" line="1239"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettingsHomeRouter.ui" line="1274"/>
         <source>Auto</source>
-        <translation>自动</translation>
+        <translation>汽车</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessSettingsHomeRouter.ui" line="512"/>
@@ -24786,7 +24786,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="534"/>
         <source>Status</source>
-        <translation>状态</translation>
+        <translation>地位</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationBluetooth.ui" line="544"/>
@@ -24926,7 +24926,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Workstation/WorkstationMIBBrowser.ui" line="208"/>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationMIBBrowser.ui" line="211"/>
         <source>Advanced...</source>
-        <translation>高级的...</translation>
+        <translation>先进的...</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationMIBBrowser.ui" line="126"/>
@@ -25185,7 +25185,7 @@ Send/Receive</source>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationPCDialer.ui" line="196"/>
         <source>Chap</source>
-        <translation>Chap</translation>
+        <translation>第一章</translation>
     </message>
 </context>
 <context>
@@ -27254,7 +27254,7 @@ stamp</source>
     <message>
         <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="543"/>
         <source>[Boards]</source>
-        <translation>[Boards]</translation>
+        <translation>[板]</translation>
     </message>
     <message>
         <location filename="../gui/NetworkComponentBox/DeviceTypesBox.cpp" line="545"/>
@@ -27707,7 +27707,7 @@ Address</source>
     <message>
         <location filename="../gui/Workspace/Physical/Environment.cpp" line="300"/>
         <source>CO</source>
-        <translation>CO</translation>
+        <translation>一氧化碳</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/Environment.cpp" line="301"/>
@@ -27777,12 +27777,12 @@ Address</source>
     <message>
         <location filename="../gui/Workspace/Physical/Environment.cpp" line="314"/>
         <source>Alpha</source>
-        <translation>Alpha</translation>
+        <translation>Α</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/Environment.cpp" line="315"/>
         <source>Beta</source>
-        <translation>Beta</translation>
+        <translation>贝塔</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/Environment.cpp" line="316"/>
@@ -28084,7 +28084,7 @@ and all previous settings will be erased.</source>
         <location filename="../gui/DesignerFiles/Cloud/FrameRelaySettings.ui" line="115"/>
         <location filename="../gui/DesignerFiles/Cloud/FrameRelaySettings.ui" line="120"/>
         <source>LMI</source>
-        <translation>LMI</translation>
+        <translation>低收入指数</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Cloud/FrameRelaySettings.ui" line="142"/>
@@ -28094,7 +28094,7 @@ and all previous settings will be erased.</source>
     <message>
         <location filename="../gui/DesignerFiles/Cloud/FrameRelaySettings.ui" line="147"/>
         <source>Cisco</source>
-        <translation>Cisco</translation>
+        <translation>思科</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Cloud/FrameRelaySettings.ui" line="152"/>
@@ -28350,14 +28350,14 @@ and all previous settings will be erased.</source>
         <location filename="../gui/DesignerFiles/UserCreatedPDU/BaseGenericL3Config.ui" line="83"/>
         <location filename="../gui/DesignerFiles/UserCreatedPDU/BaseGenericL3Config.ui" line="86"/>
         <source>TTL:</source>
-        <translation>TTL:</translation>
+        <translation>时间：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/UserCreatedPDU/BaseGenericL3Config.ui" line="93"/>
         <location filename="../gui/DesignerFiles/UserCreatedPDU/BaseGenericL3Config.ui" line="96"/>
         <location filename="../gui/DesignerFiles/UserCreatedPDU/BaseGenericL3Config.ui" line="99"/>
         <source>TOS:</source>
-        <translation>TOS:</translation>
+        <translation>服务条款：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/UserCreatedPDU/BaseGenericL3Config.ui" line="54"/>
@@ -30784,7 +30784,7 @@ reset activity?</source>
     <message>
         <location filename="../gui/DeviceConfig/CiscoWireless/LightWeightAPDialog.cpp" line="239"/>
         <source>WLC</source>
-        <translation>WLC</translation>
+        <translation>无线控制器</translation>
     </message>
 </context>
 <context>
@@ -31061,7 +31061,7 @@ reset activity?</source>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="520"/>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="523"/>
         <source>WPA</source>
-        <translation>WPA</translation>
+        <translation>水协</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseWirelessCfg.ui" line="530"/>
@@ -31948,7 +31948,7 @@ reset activity?</source>
     <message>
         <location filename="../gui/activity/LockingTree.cpp" line="737"/>
         <source>IoT Monitor Read Only</source>
-        <translation>IoT 监视器 只读</translation>
+        <translation>IoT Monitor 只读</translation>
     </message>
     <message>
         <location filename="../gui/activity/LockingTree.cpp" line="738"/>
@@ -32587,7 +32587,7 @@ reset activity?</source>
     <message>
         <location filename="../gui/DeviceConfig/Physical/ModuleTarget.cpp" line="921"/>
         <source>Power on</source>
-        <translation>上电</translation>
+        <translation>打开</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Physical/ModuleTarget.cpp" line="1379"/>
@@ -32802,7 +32802,7 @@ reset activity?</source>
         <location filename="../gui/MainWindow/netspaceLogin.cpp" line="584"/>
         <location filename="../gui/MainWindow/netspaceLogin.cpp" line="586"/>
         <source>Confirm Guest</source>
-        <translation>确认访客</translation>
+        <translation>确认客人</translation>
     </message>
     <message>
         <location filename="../gui/MainWindow/netspaceLogin.cpp" line="627"/>
@@ -32934,7 +32934,7 @@ reset activity?</source>
     <message>
         <location filename="../gui/DeviceConfig/NetworkController/NetworkControllerRealWorld.cpp" line="242"/>
         <source>Stopped.</source>
-        <translation>已停止</translation>
+        <translation>停了下来。</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/NetworkController/NetworkControllerRealWorld.cpp" line="246"/>
@@ -33307,7 +33307,7 @@ Please try to use a different port.</source>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessClientCfg.cpp" line="842"/>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessClientCfg.cpp" line="852"/>
         <source>Profiles</source>
-        <translation>配置</translation>
+        <translation>简介</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessClientCfg.cpp" line="800"/>
@@ -33317,7 +33317,7 @@ Please try to use a different port.</source>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessClientCfg.cpp" line="800"/>
         <source>Profile</source>
-        <translation>配置</translation>
+        <translation>轮廓</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessClientCfg.cpp" line="842"/>
@@ -33434,7 +33434,7 @@ Please try to use a different port.</source>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessClientCfg.cpp" line="1706"/>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessClientCfg.cpp" line="1707"/>
         <source>Auto</source>
-        <translation>自动</translation>
+        <translation>汽车</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessClientCfg.cpp" line="1344"/>
@@ -33531,22 +33531,22 @@ Please try to use a different port.</source>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessClientCfg.cpp" line="1455"/>
         <source>WPA Enterprise</source>
-        <translation>WPA Enterprise</translation>
+        <translation>WPA 企业</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessClientCfg.cpp" line="1564"/>
         <source>WPA2 Enterprise</source>
-        <translation>WPA2 Enterprise</translation>
+        <translation>WPA2 企业版</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessClientCfg.cpp" line="1634"/>
         <source>WPA Personal</source>
-        <translation>WPA Personal</translation>
+        <translation>WPA 个人</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessClientCfg.cpp" line="1697"/>
         <source>WPA2 Personal</source>
-        <translation>WPA2 Personal</translation>
+        <translation>WPA2 个人</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessClientCfg.cpp" line="498"/>
@@ -33745,22 +33745,22 @@ Please try to use a different port.</source>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessConnectionInfo.cpp" line="183"/>
         <source>Wireless-N</source>
-        <translation>Wireless-N</translation>
+        <translation>无线-N</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessConnectionInfo.cpp" line="185"/>
         <source>Wireless-G</source>
-        <translation>Wireless-G</translation>
+        <translation>无线-G</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessConnectionInfo.cpp" line="187"/>
         <source>Wireless-B</source>
-        <translation>Wireless-B</translation>
+        <translation>无线-B</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessConnectionInfo.cpp" line="189"/>
         <source>Wireless-A</source>
-        <translation>Wireless-A</translation>
+        <translation>无线-A</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessConnectionInfo.cpp" line="191"/>
@@ -33770,7 +33770,7 @@ Please try to use a different port.</source>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessConnectionInfo.cpp" line="194"/>
         <source>Auto</source>
-        <translation>自动</translation>
+        <translation>汽车</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessConnectionInfo.cpp" line="196"/>
@@ -33808,7 +33808,7 @@ Please try to use a different port.</source>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessMode.cpp" line="66"/>
         <source>Adhoc mode</source>
-        <translation>临时模式</translation>
+        <translation>即席模式</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessMode.cpp" line="67"/>
@@ -33852,7 +33852,7 @@ Please try to use a different port.</source>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkSettings.cpp" line="79"/>
         <source>DNS 1</source>
-        <translation>DNS 1</translation>
+        <translation>域名解析 1</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkSettings.cpp" line="80"/>
@@ -34014,12 +34014,12 @@ Please try to use a different port.</source>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStats.cpp" line="155"/>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStats.cpp" line="156"/>
         <source>N/A</source>
-        <translation>N/A</translation>
+        <translation>不适用</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStats.cpp" line="154"/>
         <source>Auto</source>
-        <translation>自动</translation>
+        <translation>汽车</translation>
     </message>
 </context>
 <context>
@@ -34058,7 +34058,7 @@ Please try to use a different port.</source>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="95"/>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="223"/>
         <source>DNS 1</source>
-        <translation>DNS 1</translation>
+        <translation>域名解析 1</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="96"/>
@@ -34140,7 +34140,7 @@ Please try to use a different port.</source>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="184"/>
         <source>N/A</source>
-        <translation>N/A</translation>
+        <translation>不适用</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="188"/>
@@ -34156,47 +34156,47 @@ Please try to use a different port.</source>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="192"/>
         <source>WPA-Personal</source>
-        <translation>WPA-Personal</translation>
+        <translation>WPA-个人</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="194"/>
         <source>WPA2-Personal</source>
-        <translation>WPA2-Personal</translation>
+        <translation>WPA2-个人</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="196"/>
         <source>WPA-Enterprise</source>
-        <translation>WPA-Enterprise</translation>
+        <translation>WPA-企业</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="198"/>
         <source>WPA2-Enterprise</source>
-        <translation>WPA2-Enterprise</translation>
+        <translation>WPA2-企业</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="203"/>
         <source>Auto</source>
-        <translation>自动</translation>
+        <translation>汽车</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="205"/>
         <source>Mixed B/G/N</source>
-        <translation>Mixed B/G/N</translation>
+        <translation>混色早/晚/晚</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="207"/>
         <source>Wireless-N</source>
-        <translation>Wireless-N</translation>
+        <translation>无线-N</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="209"/>
         <source>Wireless-G</source>
-        <translation>Wireless-G</translation>
+        <translation>无线-G</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessNetworkStatus.cpp" line="211"/>
         <source>Wireless-B</source>
-        <translation>Wireless-B</translation>
+        <translation>无线-B</translation>
     </message>
 </context>
 <context>
@@ -34385,27 +34385,27 @@ Please try to use a different port.</source>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessProfiles.cpp" line="208"/>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessProfiles.cpp" line="224"/>
         <source>Auto</source>
-        <translation>自动</translation>
+        <translation>汽车</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessProfiles.cpp" line="214"/>
         <source>WPA-Personal</source>
-        <translation>WPA-Personal</translation>
+        <translation>WPA-个人</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessProfiles.cpp" line="216"/>
         <source>WPA-Enterprise</source>
-        <translation>WPA-Enterprise</translation>
+        <translation>WPA-企业</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessProfiles.cpp" line="218"/>
         <source>WPA2-Personal</source>
-        <translation>WPA2-Personal</translation>
+        <translation>WPA2-个人</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessProfiles.cpp" line="220"/>
         <source>WPA2-Enterprise</source>
-        <translation>WPA2-Enterprise</translation>
+        <translation>WPA2-企业</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessProfiles.cpp" line="222"/>
@@ -34453,12 +34453,12 @@ Please try to use a different port.</source>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessSecuredConnWEP.cpp" line="67"/>
         <source>WPA-Personal</source>
-        <translation>WPA-Personal</translation>
+        <translation>WPA-个人</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessSecuredConnWEP.cpp" line="68"/>
         <source>WPA2-Personal</source>
-        <translation>WPA2-Personal</translation>
+        <translation>WPA2-个人</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessSecuredConnWEP.cpp" line="72"/>
@@ -34481,12 +34481,12 @@ Please try to use a different port.</source>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessSecuredConnWPA2PSK.cpp" line="48"/>
         <source>WPA-Personal</source>
-        <translation>WPA-Personal</translation>
+        <translation>WPA-个人</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessSecuredConnWPA2PSK.cpp" line="49"/>
         <source>WPA2-Personal</source>
-        <translation>WPA2-Personal</translation>
+        <translation>WPA2-个人</translation>
     </message>
 </context>
 <context>
@@ -34499,12 +34499,12 @@ Please try to use a different port.</source>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessSecuredConnWPAPSK.cpp" line="48"/>
         <source>WPA-Personal</source>
-        <translation>WPA-Personal</translation>
+        <translation>WPA-个人</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessSecuredConnWPAPSK.cpp" line="49"/>
         <source>WPA2-Personal</source>
-        <translation>WPA2-Personal</translation>
+        <translation>WPA2-个人</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessSecuredConnWPAPSK.cpp" line="53"/>
@@ -34542,22 +34542,22 @@ Please try to use a different port.</source>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessSecurity.cpp" line="54"/>
         <source>WPA-Personal</source>
-        <translation>WPA-Personal</translation>
+        <translation>WPA-个人</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessSecurity.cpp" line="55"/>
         <source>WPA-Enterprise</source>
-        <translation>WPA-Enterprise</translation>
+        <translation>WPA-企业</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessSecurity.cpp" line="56"/>
         <source>WPA2-Personal</source>
-        <translation>WPA2-Personal</translation>
+        <translation>WPA2-个人</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessSecurity.cpp" line="57"/>
         <source>WPA2-Enterprise</source>
-        <translation>WPA2-Enterprise</translation>
+        <translation>WPA2-企业</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/PCWirelessSecurity.cpp" line="62"/>
@@ -35389,7 +35389,7 @@ What is the device decision in this layer?</source>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/BasePCFirewallSettings.ui" line="263"/>
         <source>Inbound Rules</source>
-        <translation>入站规则</translation>
+        <translation>入境规则</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/BasePCFirewallSettings.ui" line="294"/>
@@ -35503,7 +35503,7 @@ What is the device decision in this layer?</source>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/BasePCIPV6FirewallSettings.ui" line="270"/>
         <source>Inbound Rules</source>
-        <translation>入站规则</translation>
+        <translation>入境规则</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/BasePCIPV6FirewallSettings.ui" line="323"/>
@@ -36204,7 +36204,7 @@ Command Prompt Commands: %7</source>
     <message>
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="102"/>
         <source>Link</source>
-        <translation>链接</translation>
+        <translation>Link</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="103"/>
@@ -37661,7 +37661,7 @@ Do you want to allow it?</source>
         <location filename="../gui/scripting/CScriptingInterface.cpp" line="403"/>
         <location filename="../gui/scripting/CScriptingInterface.cpp" line="404"/>
         <source>N/A</source>
-        <translation>N/A</translation>
+        <translation>不适用</translation>
     </message>
     <message>
         <location filename="../gui/scripting/CScriptingInterface.cpp" line="459"/>
@@ -38171,7 +38171,7 @@ See Extensions-&gt;Scripting-&gt;Configure Script Modules ...</source>
     <message>
         <location filename="../gui/DeviceConfig/Server/ServerDialog.cpp" line="224"/>
         <source>VM Management</source>
-        <translation>虚拟机管理</translation>
+        <translation>VM Management</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Server/ServerDialog.cpp" line="225"/>
@@ -38765,7 +38765,7 @@ Supported file extensions: .html .htm . php .css .js</source>
     <message>
         <location filename="../gui/DesignerFiles/Server/ServiceDhcp.ui" line="694"/>
         <source>WLC Address</source>
-        <translation>WLC 地址</translation>
+        <translation>无线控制器地址</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Server/ServiceDhcp.ui" line="513"/>
@@ -38777,7 +38777,7 @@ Supported file extensions: .html .htm . php .css .js</source>
     <message>
         <location filename="../gui/DesignerFiles/Server/ServiceDhcp.ui" line="555"/>
         <source>WLC Address:</source>
-        <translation>WLC 地址：</translation>
+        <translation>无线控制器地址：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Server/ServiceDhcp.ui" line="582"/>
@@ -39276,7 +39276,7 @@ Supported file extensions: .html .htm . php .css .js</source>
         <location filename="../gui/DeviceConfig/Server/ServerDns.cpp" line="344"/>
         <location filename="../gui/DeviceConfig/Server/ServerDns.cpp" line="470"/>
         <source>A Record</source>
-        <translation>A 记录</translation>
+        <translation>一个记录</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Server/ServerDns.cpp" line="355"/>
@@ -40624,7 +40624,7 @@ Reset the network?</source>
     <message>
         <location filename="../gui/switches/SimulationToolbar.cpp" line="160"/>
         <source>Capture the Forward</source>
-        <translation>捕获转发</translation>
+        <translation>抢占先机</translation>
     </message>
     <message>
         <location filename="../gui/switches/SimulationToolbar.cpp" line="161"/>
@@ -40661,7 +40661,7 @@ Reset the network?</source>
         <location filename="../gui/DesignerFiles/Sniffer/Sniffer.ui" line="74"/>
         <location filename="../gui/DesignerFiles/Sniffer/Sniffer.ui" line="79"/>
         <source>ARP, ICMP, BLAH, BLAH, BLAH, NSAD, ARP, ICMP, BLAH, BLAH, BLAH, NSAD,</source>
-        <translation>ARP, ICMP, BLAH, BLAH, BLAH, NSAD, ARP, ICMP, BLAH, BLAH, BLAH, NSAD,</translation>
+        <translation>ARP，ICMP，废话，废话，废话，NSAD，ARP，ICMP，废话，废话，废话，非甾体抗炎药，</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Sniffer/Sniffer.ui" line="92"/>
@@ -41195,7 +41195,7 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="182"/>
         <source>Hub</source>
-        <translation>集线器</translation>
+        <translation>Hub</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="183"/>
@@ -41230,7 +41230,7 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="192"/>
         <source>Bridge</source>
-        <translation>网桥</translation>
+        <translation>Bridge</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="193"/>
@@ -41347,7 +41347,7 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="263"/>
         <source>A Records</source>
-        <translation>A 记录</translation>
+        <translation>一个记录</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="264"/>
@@ -44425,7 +44425,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="525"/>
         <source>WLC Address</source>
-        <translation>WLC地址</translation>
+        <translation>无线控制器地址</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="526"/>
@@ -46280,7 +46280,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1921"/>
         <source>The bridge is no longer the root.</source>
-        <translation>该网桥 不再是 root。</translation>
+        <translation>The bridge 不再是 the root。</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1922"/>
@@ -46295,7 +46295,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1924"/>
         <source>The bridge is the new root.</source>
-        <translation>该网桥 是新的 root。</translation>
+        <translation>The bridge 是新的 the root。</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1925"/>
@@ -47145,7 +47145,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2139"/>
         <source>Selected WLC</source>
-        <translation>选定的 WLC</translation>
+        <translation>选定的无线控制器</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2140"/>
@@ -47235,7 +47235,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2160"/>
         <source>AP Groups</source>
-        <translation>AP 组</translation>
+        <translation>美联社小组</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2161"/>
@@ -49981,7 +49981,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="994"/>
         <source>Auto Cost</source>
-        <translation>自动花费</translation>
+        <translation>汽车成本</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1002"/>
@@ -53551,7 +53551,7 @@ The FTP server checks whether the file exists and waits for the corresponding RN
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2649"/>
         <source>Bridge Group</source>
-        <translation>桥接组</translation>
+        <translation>Bridge Group</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="2650"/>
@@ -55280,7 +55280,7 @@ Cable Type: %6</source>
     <message>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="555"/>
         <source>WLC Address:</source>
-        <translation>WLC 地址：</translation>
+        <translation>无线控制器地址：</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="582"/>
@@ -55321,7 +55321,7 @@ Cable Type: %6</source>
     <message>
         <location filename="../gui/DesignerFiles/WlcDhcp.ui" line="694"/>
         <source>WLC Address</source>
-        <translation>WLC 地址</translation>
+        <translation>无线控制器地址</translation>
     </message>
 </context>
 <context>
@@ -55507,7 +55507,7 @@ this network in the future. Scripts in question belong to a script module with I
     <message>
         <location filename="../gui/DeviceConfig/CiscoWireless/WirelessLanControllerDialog.cpp" line="153"/>
         <source>AP Groups</source>
-        <translation>AP 组</translation>
+        <translation>美联社小组</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/CiscoWireless/WirelessLanControllerDialog.cpp" line="154"/>
@@ -55565,22 +55565,22 @@ this network in the future. Scripts in question belong to a script module with I
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessNetworkStatus.cpp" line="110"/>
         <source>WPA Enterprise</source>
-        <translation>WPA Enterprise</translation>
+        <translation>WPA 企业</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessNetworkStatus.cpp" line="112"/>
         <source>WPA Personal</source>
-        <translation>WPA Personal</translation>
+        <translation>WPA 个人</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessNetworkStatus.cpp" line="114"/>
         <source>WPA2 Enterprise</source>
-        <translation>WPA2 Personal</translation>
+        <translation>WPA2 企业版</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessNetworkStatus.cpp" line="116"/>
         <source>WPA2 Personal</source>
-        <translation>WPA2 Personal</translation>
+        <translation>WPA2 个人</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessNetworkStatus.cpp" line="106"/>
@@ -55591,7 +55591,7 @@ this network in the future. Scripts in question belong to a script module with I
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessNetworkStatus.cpp" line="129"/>
         <source>Auto</source>
-        <translation>自动</translation>
+        <translation>汽车</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessNetworkStatus.cpp" line="135"/>
@@ -55601,7 +55601,7 @@ this network in the future. Scripts in question belong to a script module with I
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessNetworkStatus.cpp" line="137"/>
         <source>N/A</source>
-        <translation>N/A</translation>
+        <translation>不适用</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessNetworkStatus.cpp" line="142"/>
@@ -55755,17 +55755,17 @@ this network in the future. Scripts in question belong to a script module with I
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="58"/>
         <source>Wireless-G Only</source>
-        <translation>仅限Wireless-G</translation>
+        <translation>仅限无线-G</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="59"/>
         <source>Wireless-B Only</source>
-        <translation>仅限Wireless-B</translation>
+        <translation>仅限无线-B</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="60"/>
         <source>Wireless-N Only</source>
-        <translation>仅限Wireless-N</translation>
+        <translation>仅限无线-N</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="61"/>
@@ -55776,7 +55776,7 @@ this network in the future. Scripts in question belong to a script module with I
         <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="64"/>
         <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="334"/>
         <source>Auto</source>
-        <translation>自动</translation>
+        <translation>汽车</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/WirelessSettings.cpp" line="65"/>
@@ -56182,7 +56182,7 @@ End the expression with: &quot;)</source>
     <message>
         <location filename="../gui/MainWindow/WorkspaceList.cpp" line="322"/>
         <source>N/A</source>
-        <translation>N/A</translation>
+        <translation>不适用</translation>
     </message>
     <message>
         <location filename="../gui/MainWindow/WorkspaceList.cpp" line="337"/>
@@ -56733,17 +56733,17 @@ End the expression with: &quot;)</source>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationDialup.cpp" line="101"/>
         <source>Alt+C</source>
-        <translation>Alt+C</translation>
+        <translation>Alt + C</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationDialup.cpp" line="102"/>
         <source>Alt+D</source>
-        <translation>Alt+D</translation>
+        <translation>Alt + D</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationDialup.cpp" line="103"/>
         <source>Alt+I</source>
-        <translation>Alt+I</translation>
+        <translation>Alt + 我</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationDialup.cpp" line="156"/>
@@ -56851,7 +56851,7 @@ End the expression with: &quot;)</source>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationDialupBase.ui" line="359"/>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationDialupBase.ui" line="362"/>
         <source>Status:</source>
-        <translation>状态：</translation>
+        <translation>地位：</translation>
     </message>
 </context>
 <context>
@@ -57560,7 +57560,7 @@ Port</source>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="117"/>
         <source>Access :</source>
-        <translation>访问 ：</translation>
+        <translation>使用权 ：</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationMIBBrowser.cpp" line="120"/>
@@ -58098,7 +58098,7 @@ Flow information:
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientConfigurationBase.ui" line="418"/>
         <source>Xon/Xoff</source>
-        <translation>Xon/Xoff</translation>
+        <translation>汗/霍夫</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationTelnetClientConfigurationBase.ui" line="423"/>
@@ -58112,7 +58112,7 @@ Flow information:
         <location filename="../gui/DeviceConfig/Workstation/WorkstationTelnetSettings.cpp" line="53"/>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationTelnetSettings.cpp" line="129"/>
         <source>Xon/Xoff</source>
-        <translation>Xon/Xoff</translation>
+        <translation>汗/霍夫</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationTelnetSettings.cpp" line="57"/>
@@ -58138,7 +58138,7 @@ Flow information:
         <location filename="../gui/DeviceConfig/Workstation/WorkstationTelnetSettings.cpp" line="69"/>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationTelnetSettings.cpp" line="146"/>
         <source>Odd</source>
-        <translation>Odd</translation>
+        <translation>奇怪的</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Workstation/WorkstationTelnetSettings.cpp" line="77"/>
@@ -60936,7 +60936,7 @@ The typical sequence in creating a script module is as follows:</source>
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="895"/>
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="898"/>
         <source>N/A</source>
-        <translation>N/A</translation>
+        <translation>不适用</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/scripting/ScriptingInterface.ui" line="827"/>
@@ -61269,19 +61269,19 @@ The typical sequence in creating a script module is as follows:</source>
     <message>
         <location filename="../gui/DesignerFiles/Tv/BaseTVDialog.ui" line="28"/>
         <source>Status</source>
-        <translation>状态</translation>
+        <translation>地位</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Tv/BaseTVDialog.ui" line="34"/>
         <location filename="../gui/DesignerFiles/Tv/BaseTVDialog.ui" line="36"/>
         <source>ON</source>
-        <translation>开</translation>
+        <translation>上</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Tv/BaseTVDialog.ui" line="41"/>
         <location filename="../gui/DesignerFiles/Tv/BaseTVDialog.ui" line="43"/>
         <source>OFF</source>
-        <translation>关</translation>
+        <translation>离开</translation>
     </message>
 </context>
 <context>
@@ -61548,7 +61548,7 @@ The typical sequence in creating a script module is as follows:</source>
     <message>
         <location filename="../gui/DesignerFiles/WlcApGroups.ui" line="20"/>
         <source>AP Groups</source>
-        <translation>AP 组</translation>
+        <translation>美联社小组</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/WlcApGroups.ui" line="39"/>
@@ -61564,7 +61564,7 @@ The typical sequence in creating a script module is as follows:</source>
         <location filename="../gui/DesignerFiles/WlcApGroups.ui" line="74"/>
         <location filename="../gui/DesignerFiles/WlcApGroups.ui" line="143"/>
         <source>In AP Group</source>
-        <translation>在 AP 组中</translation>
+        <translation>在美联社集团</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/WlcApGroups.ui" line="82"/>
@@ -61601,7 +61601,7 @@ The typical sequence in creating a script module is as follows:</source>
     <message>
         <location filename="../gui/DesignerFiles/WlcApGroups.ui" line="164"/>
         <source>Status</source>
-        <translation>状态</translation>
+        <translation>地位</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/WlcApGroups.ui" line="180"/>
@@ -61699,7 +61699,7 @@ The typical sequence in creating a script module is as follows:</source>
         <location filename="../gui/DesignerFiles/WlcProfiles.ui" line="191"/>
         <location filename="../gui/DesignerFiles/WlcWlans.ui" line="192"/>
         <source>WPA</source>
-        <translation>WPA</translation>
+        <translation>水协</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/WlcProfiles.ui" line="204"/>
