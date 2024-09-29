@@ -32,3 +32,9 @@ Options->Preferences->Interface->Languages->Chinese->Change Language
 ### 说明
 
 某些不用翻译的字段（比如名词，专业术语），可以直接使用英文，不用翻译，但是如果直接删除，将显示为空白，所以请填充原文
+
+## ProhibitNetworking.bat
+
+用于禁用网络功能，防止软件联网，以避免频繁的账号验证弹窗
+
+以管理员身份运行
