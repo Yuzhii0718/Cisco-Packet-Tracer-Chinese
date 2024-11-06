@@ -8063,7 +8063,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="496"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="499"/>
         <source>Translator</source>
-        <translation>chinese1.9.6</translation>
+        <translation>chinese1.9.7</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="509"/>
@@ -16586,7 +16586,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/BaseCustomImage.ui" line="13"/>
         <source>Customize Images in Logical and Physical View</source>
-        <translation>在逻辑和物理视图中自定义图像</translation>
+        <translation>自定义逻辑和物理视图的图像</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/BaseCustomImage.ui" line="40"/>
@@ -17109,7 +17109,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="567"/>
         <source>Customize Device Image in Physical View</source>
-        <translation>在物理视图中自定义设备图像</translation>
+        <translation>自定义物理视图中的设备图像</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="570"/>
@@ -17122,7 +17122,9 @@ p, li { white-space: pre-wrap; }
         <source>Customize
 Icon in 
 Physical View</source>
-        <translation>在物理视图中自定义图标</translation>
+        <translation>自定义
+物理视图中的
+图标</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="603"/>
@@ -17134,7 +17136,7 @@ Physical View</source>
     <message>
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="619"/>
         <source>Customize Device Image in Logical View</source>
-        <translation>在逻辑视图中自定义设备映像</translation>
+        <translation>在逻辑视图中自定义设备图像</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="622"/>
@@ -17147,7 +17149,9 @@ Physical View</source>
         <source>Customize
 Icon in
 Logical View</source>
-        <translation>自定义逻辑视图中的图标</translation>
+        <translation>自定义
+逻辑视图中的
+图标</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/BaseDeviceWidget.ui" line="658"/>
@@ -26721,7 +26725,9 @@ Publisher Certificate Information:
         <source>Customize 
  Physical 
  Image</source>
-        <translation>自定义物理图像</translation>
+        <translation>自定义
+物理
+图像</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Templates/CDeviceDialog.cpp" line="626"/>
