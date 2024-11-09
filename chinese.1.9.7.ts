@@ -5311,7 +5311,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="2389"/>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="2392"/>
         <source>Static</source>
-        <translation>静止</translation>
+        <translation>静态</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Interfaces/IntCfgUniversal.ui" line="1947"/>
@@ -9923,7 +9923,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="4860"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="4874"/>
         <source>Routesv6</source>
-        <translation>路线v6</translation>
+        <translation>Routesv6</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="4826"/>
@@ -9957,7 +9957,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="5070"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="5084"/>
         <source>Routes</source>
-        <translation>路线</translation>
+        <translation>Routes</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="4910"/>
@@ -24570,7 +24570,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="2302"/>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="2305"/>
         <source>Static</source>
-        <translation>静止</translation>
+        <translation>静态</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationIPConfigBase.ui" line="764"/>
@@ -30915,7 +30915,7 @@ reset activity?</source>
         <location filename="../gui/DesignerFiles/Routing/BaseInternetCfg.ui" line="321"/>
         <location filename="../gui/DesignerFiles/Routing/BaseInternetCfg.ui" line="326"/>
         <source>Static</source>
-        <translation>静止</translation>
+        <translation>静态</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Routing/BaseInternetCfg.ui" line="44"/>
@@ -36704,7 +36704,7 @@ Bluetooth Tether AP: %1
     <message>
         <location filename="../gui/DeviceConfig/Router/RouterDialog.cpp" line="528"/>
         <source>Static</source>
-        <translation>静止</translation>
+        <translation>静态</translation>
     </message>
     <message>
         <location filename="../gui/DeviceConfig/Router/RouterDialog.cpp" line="529"/>
@@ -42808,7 +42808,7 @@ Please wait until it is finished.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="926"/>
         <source>Route CEF</source>
-        <translation>路线 CEF</translation>
+        <translation>Route CEF</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="927"/>
@@ -44165,7 +44165,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="210"/>
         <source>SBC</source>
-        <translation>单板电脑</translation>
+        <translation>SBC</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="211"/>
@@ -47542,7 +47542,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3207"/>
         <source>The type of route.  Note that the values direct(3) and indirect(4) refer to the notion of direct and indirect routing in the IP architecture. Letting this object to the value invalid(2) has the effect of invalidating the corresponding entry in the ipRouteTable object.  That is, it effectively disassociates the destination identified with said entry from the route identified with said entry.  It is an implementation-specific matter as to whether the agent removes an invalidated entry from the table. Accordingly, management stations must be prepared to receive tabular information from agents that corresponds to entries not currently in use. Proper interpretation of such entries requires examination of the relevant ip RouteType object.</source>
-        <translation>路线的类型。请注意，direct(3) 和indirect(4) 值指的是IP 体系结构中直接和间接路由的概念。将此对象设置为值 invalid(2) 具有使 ipRouteTable 对象中的相应条目无效的效果。也就是说，它有效地将用所述条目标识的目的地与用所述条目标识的路线分离。代理是否从表中删除无效条目是特定于实现的问题。因此，管理站必须准备好从代理接收与当前未使用的条目相对应的表格信息。对此类条目的正确解释需要检查相关的 ip RouteType 对象。</translation>
+        <translation>路由的类型。请注意，direct(3) 和indirect(4) 值指的是IP 体系结构中直接和间接路由的概念。将此对象设置为值 invalid(2) 具有使 ipRouteTable 对象中的相应条目无效的效果。也就是说，它有效地将用所述条目标识的目的地与用所述条目标识的路由分离。代理是否从表中删除无效条目是特定于实现的问题。因此，管理站必须准备好从代理接收与当前未使用的条目相对应的表格信息。对此类条目的正确解释需要检查相关的 ip RouteType 对象。</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3225"/>
@@ -50686,7 +50686,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1653"/>
         <source>The reply table has a best route. The device removes it.</source>
-        <translation>回复表有一条最佳路线。设备将其移除。</translation>
+        <translation>回复表有一条最佳路由。设备将其移除。</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1654"/>
@@ -50706,7 +50706,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1658"/>
         <source>The reply table does not have a best route. The device uses infinity for the best route.</source>
-        <translation>回复表没有最佳路由。该设备使用无穷大作为最佳路线。</translation>
+        <translation>回复表没有最佳路由。该设备使用无穷大作为最佳路由。</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1659"/>
@@ -50723,7 +50723,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1663"/>
         <source>The device has a route to the network. It replies with the information in the route.</source>
-        <translation>该设备具有到网络的路由。它以路线中的信息进行回复。</translation>
+        <translation>该设备具有到网络的路由。它以路由中的信息进行回复。</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1664"/>
@@ -50994,7 +50994,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1730"/>
         <source>This is a new route. The device adds the route to its database and routing table.</source>
-        <translation>这是一条新路线。设备将路由添加到其数据库和路由表中。</translation>
+        <translation>这是一条新路由。设备将路由添加到其数据库和路由表中。</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1731"/>
@@ -52315,7 +52315,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3202"/>
         <source>A route to a particular destination.</source>
-        <translation>通往特定目的地的路线。</translation>
+        <translation>通往特定目的地的路由。</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3203"/>
@@ -52345,7 +52345,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3209"/>
         <source>The number of seconds since this route was last updated or otherwise determined to be correct.</source>
-        <translation>自上次更新此路线或以其他方式确定为正确路线以来的秒数。</translation>
+        <translation>自上次更新此路由或以其他方式确定为正确路由以来的秒数。</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="3210"/>
@@ -54847,7 +54847,7 @@ The FTP server checks whether the file exists and waits for the corresponding RN
         <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1199"/>
         <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="1205"/>
         <source>Static</source>
-        <translation>静止</translation>
+        <translation>静态</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/GlobalSettings/UniversalGlobalSettings.ui" line="945"/>
