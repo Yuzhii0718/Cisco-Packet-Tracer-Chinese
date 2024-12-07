@@ -4756,7 +4756,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/IoE/DeviceFileManager.ui" line="170"/>
         <location filename="../gui/DesignerFiles/IoE/DeviceFileManager.ui" line="173"/>
         <source>Up</source>
-        <translation>向上</translation>
+        <translation>开启</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/IoE/DeviceFileManager.ui" line="217"/>
@@ -8063,7 +8063,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="496"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="499"/>
         <source>Translator</source>
-        <translation>chinese1.9.7</translation>
+        <translation>chinese1.9.8</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="509"/>
@@ -25179,7 +25179,7 @@ Send/Receive</source>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationPCDialer.ui" line="179"/>
         <source>Pap</source>
-        <translation>帕普</translation>
+        <translation>Pap</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationPCDialer.ui" line="189"/>
@@ -27743,7 +27743,7 @@ Address</source>
     <message>
         <location filename="../gui/Workspace/Physical/Environment.cpp" line="304"/>
         <source>Argon</source>
-        <translation>氩气</translation>
+        <translation>氩</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/Environment.cpp" line="305"/>
@@ -27788,7 +27788,7 @@ Address</source>
     <message>
         <location filename="../gui/Workspace/Physical/Environment.cpp" line="313"/>
         <source>Gamma</source>
-        <translation>伽玛</translation>
+        <translation>Gamma</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/Environment.cpp" line="314"/>
@@ -32860,7 +32860,7 @@ reset activity?</source>
         <location filename="../gui/NetworkComponentBox/NetworkComponentBox.cpp" line="256"/>
         <location filename="../gui/NetworkComponentBox/NetworkComponentBox.cpp" line="370"/>
         <source>Fiber</source>
-        <translation>纤维</translation>
+        <translation>光纤电缆</translation>
     </message>
     <message>
         <location filename="../gui/NetworkComponentBox/NetworkComponentBox.cpp" line="266"/>
@@ -32890,7 +32890,7 @@ reset activity?</source>
         <location filename="../gui/NetworkComponentBox/NetworkComponentBox.cpp" line="306"/>
         <location filename="../gui/NetworkComponentBox/NetworkComponentBox.cpp" line="425"/>
         <source>Octal</source>
-        <translation>八进制</translation>
+        <translation>八通道电缆</translation>
     </message>
     <message>
         <location filename="../gui/NetworkComponentBox/NetworkComponentBox.cpp" line="316"/>
@@ -36200,12 +36200,12 @@ Command Prompt Commands: %7</source>
     <message>
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="98"/>
         <source>Down</source>
-        <translation>向下</translation>
+        <translation>关闭</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="99"/>
         <source>Up</source>
-        <translation>向上</translation>
+        <translation>开启</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="100"/>
@@ -58568,14 +58568,14 @@ and all previous settings will be erased.</source>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationWebBrowserBase.ui" line="225"/>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationWebBrowserBase.ui" line="228"/>
         <source>URL</source>
-        <translation>网址</translation>
+        <translation>URL</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationWebBrowserBase.ui" line="263"/>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationWebBrowserBase.ui" line="266"/>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationWebBrowserBase.ui" line="269"/>
         <source>Go</source>
-        <translation>Go</translation>
+        <translation>跳转</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/Workstation/WorkstationWebBrowserBase.ui" line="291"/>
@@ -61930,7 +61930,7 @@ The typical sequence in creating a script module is as follows:</source>
     <message>
         <location filename="../gui/Workspace/Physical/GeoIcon.cpp" line="186"/>
         <source>Up</source>
-        <translation>向上</translation>
+        <translation>开启</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/Physical/GeoIcon.cpp" line="187"/>
