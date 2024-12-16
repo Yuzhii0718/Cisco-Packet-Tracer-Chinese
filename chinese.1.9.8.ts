@@ -27097,7 +27097,8 @@ Router</source>
         <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="395"/>
         <source>Link
 Count</source>
-        <translation>链接数</translation>
+        <translation>链接
+计数</translation>
     </message>
     <message>
         <location filename="../gui/DeviceTable/DeviceTableImpl.cpp" line="403"/>
@@ -36220,7 +36221,7 @@ Command Prompt Commands: %7</source>
     <message>
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="102"/>
         <source>Link</source>
-        <translation>链接</translation>
+        <translation>链路</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="103"/>
@@ -36230,7 +36231,7 @@ Command Prompt Commands: %7</source>
     <message>
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="104"/>
         <source>IP Address</source>
-        <translation>IP地址</translation>
+        <translation>IP 地址</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="105"/>
@@ -36297,7 +36298,7 @@ Command Prompt Commands: %7</source>
     <message>
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="371"/>
         <source>Cellular</source>
-        <translation>蜂窝</translation>
+        <translation>蜂窝网路</translation>
     </message>
     <message>
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="383"/>
@@ -36438,7 +36439,7 @@ Bluetooth Tether AP: %1
     <message>
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="110"/>
         <source>PPPoE IP: </source>
-        <translation></translation>
+        <translation>PPPoE IP: </translation>
     </message>
     <message>
         <location filename="../gui/Workspace/QuickDeviceInfo.cpp" line="117"/>
