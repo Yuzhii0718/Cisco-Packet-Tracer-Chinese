@@ -8063,7 +8063,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="496"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="499"/>
         <source>Translator</source>
-        <translation>chinese1.9.8</translation>
+        <translation>chinese1.9.9</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="509"/>
@@ -9788,7 +9788,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="11135"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="11149"/>
         <source>STP</source>
-        <translation></translation>
+        <translation>STP</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="4560"/>
@@ -10111,17 +10111,17 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="5322"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="5336"/>
         <source>REP</source>
-        <translation></translation>
+        <translation>REP</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="5316"/>
         <source>REP Segments</source>
-        <translation></translation>
+        <translation>REP 段</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="5330"/>
         <source>Admin VLAN</source>
-        <translation>管理 VLAN</translation>
+        <translation>Admin VLAN</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="5345"/>
@@ -11002,7 +11002,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="12236"/>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="12255"/>
         <source>LLDP</source>
-        <translation></translation>
+        <translation>LLDP</translation>
     </message>
     <message>
         <location filename="../gui/DesignerFiles/AdministrativeOptionsBase.ui" line="7557"/>
@@ -42217,7 +42217,7 @@ Please wait until it is finished.</source>
         <location filename="../gui/CTranslationDB.cpp" line="1940"/>
         <location filename="../gui/CTranslationDB.cpp" line="2207"/>
         <source>STP</source>
-        <translation></translation>
+        <translation>STP</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="1941"/>
@@ -44263,7 +44263,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
         <location filename="../gui/CTranslationDB.cpp" line="434"/>
         <location filename="../gui/CTranslationDB.cpp" line="2230"/>
         <source>REP</source>
-        <translation></translation>
+        <translation>REP</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="435"/>
@@ -44273,27 +44273,27 @@ Click Cancel to stop waiting and save with current replied data.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="436"/>
         <source>REP Segments</source>
-        <translation></translation>
+        <translation>REP Segments</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="439"/>
         <source>REP Segment</source>
-        <translation></translation>
+        <translation>REP Segment</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="440"/>
         <source>REP Segment Id</source>
-        <translation>REP 段 ID</translation>
+        <translation>REP Segment ID</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="443"/>
         <source>REP Port</source>
-        <translation></translation>
+        <translation>REP 端口</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="444"/>
         <source>REP LSL Age Time</source>
-        <translation>REP LSL 年龄时间</translation>
+        <translation>REP LSL Age Time</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="445"/>
@@ -44592,7 +44592,7 @@ Click Cancel to stop waiting and save with current replied data.</source>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="748"/>
         <source>Port Up</source>
-        <translation>端口向上</translation>
+        <translation>端口启用</translation>
     </message>
     <message>
         <location filename="../gui/CTranslationDB.cpp" line="846"/>
@@ -62261,7 +62261,7 @@ Please contact your test coordinator.</source>
         <location filename="../gui/main.cpp" line="1524"/>
         <location filename="../gui/main.cpp" line="1669"/>
         <source>    ID: </source>
-        <translation></translation>
+        <translation>    ID: </translation>
     </message>
     <message>
         <location filename="../gui/main.cpp" line="1525"/>
