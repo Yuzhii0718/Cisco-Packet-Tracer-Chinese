@@ -24,28 +24,48 @@ if %errorlevel% neq 0 (
     exit /b 1
 )
 
-:: 提示用户输入程序所在路径，默认路径为"C:\Program Files\Cisco Packet Tracer 8.2.2\bin\PacketTracer.exe"
-echo 默认路径为 "C:\Program Files\Cisco Packet Tracer 8.2.2\bin\PacketTracer.exe"
-echo 直接回车将使用默认路径。
-set /p programPath=请输入程序所在路径:
+:: 提示用户选择操作
+echo 请选择操作:
+echo 1. 创建防火墙规则
+echo 2. 删除防火墙规则
+set /p choice=请输入选项 (1 或 2):
 
-:: 如果用户未输入路径，则使用默认路径
-if "%programPath%"=="" (
-    set programPath=C:\Program Files\Cisco Packet Tracer 8.2.2\bin\PacketTracer.exe
-)
+if "%choice%"=="1" (
+    :: 提示用户输入程序所在路径，默认路径为"C:\Program Files\Cisco Packet Tracer 8.2.2\bin\PacketTracer.exe"
+    echo 默认路径为 "C:\Program Files\Cisco Packet Tracer 8.2.2\bin\PacketTracer.exe"
+    echo 直接回车将使用默认路径。
+    set /p programPath=请输入程序所在路径:
 
-:: 检查路径是否存在
-if not exist "%programPath%" (
-    echo 路径不存在，请检查后重试。
+    :: 如果用户未输入路径，则使用默认路径
+    if "%programPath%"=="" (
+        set programPath=C:\Program Files\Cisco Packet Tracer 8.2.2\bin\PacketTracer.exe
+    )
+
+    :: 检查路径是否存在
+    if not exist "%programPath%" (
+        echo 路径不存在，请检查后重试。
+        exit /b 1
+    )
+
+    :: 创建防火墙出站规则
+    netsh advfirewall firewall add rule name="Cisco Packet Tracer 出站" dir=out action=block program="%programPath%" enable=yes
+
+    :: 创建防火墙入站规则
+    netsh advfirewall firewall add rule name="Cisco Packet Tracer 入站" dir=in action=block program="%programPath%" enable=yes
+
+    echo 防火墙规则已成功创建。
+) else if "%choice%"=="2" (
+    :: 删除防火墙出站规则
+    netsh advfirewall firewall delete rule name="Cisco Packet Tracer 出站"
+
+    :: 删除防火墙入站规则
+    netsh advfirewall firewall delete rule name="Cisco Packet Tracer 入站"
+
+    echo 防火墙规则已成功删除。
+) else (
+    echo 无效选项，请重新运行脚本。
     exit /b 1
 )
 
-:: 创建防火墙出站规则
-netsh advfirewall firewall add rule name="Cisco Packet Tracer 出站" dir=out action=block program="%programPath%" enable=yes
-
-:: 创建防火墙入站规则
-netsh advfirewall firewall add rule name="Cisco Packet Tracer 入站" dir=in action=block program="%programPath%" enable=yes
-
-echo 防火墙规则已成功创建。
 endlocal
 pause
